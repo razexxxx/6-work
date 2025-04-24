@@ -1,0 +1,11 @@
+{
+    "name": "user/chocolate-factory",
+    "description": "Library for Chocolate Snacks",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ChocolateFactory\\": "src/"
+        }
+    },
+    "require": {}
+}
